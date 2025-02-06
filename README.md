@@ -5,6 +5,8 @@
 ## Overview
 This project analyzes various ad-hoc requests for Atliq Hardwares, a consumer goods company. The analysis focuses on multiple business aspects such as product growth, customer insights, sales performance, and channel contributions.
 
+##![project](https://github.com/tanwar2845/Hotel-Grand/blob/main/Images/Screenshot.png)
+
 ### Situation
 Atliq Hardwares, operating across multiple regions, required in-depth insights into its product expansion, customer behavior, and sales trends. 
 The company is struggling to gain sufficient insights to make data-oriented decisions. They’ve decided to issue a series of ad-hoc requests to a data analyst. 
