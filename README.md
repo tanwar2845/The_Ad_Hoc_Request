@@ -2,12 +2,12 @@
 
 ## Overview
 This project analyzes various ad-hoc requests for Atliq Hardwares, a consumer goods company. The analysis focuses on multiple business aspects such as product growth, customer insights, sales performance, and channel contributions.
----
+
 ### Situation
 Atliq Hardwares, operating across multiple regions, required in-depth insights into its product expansion, customer behavior, and sales trends. 
 The company is struggling to gain sufficient insights to make data-oriented decisions. They’ve decided to issue a series of ad-hoc requests to a data analyst. 
 These requests are aimed at evaluating not only the analyst’s technical abilities but also their soft skills, such as problem-solving and communication.
----
+
 ### **Task**
 Isshued 10 Request:
 1. **Market Presence:** Identifying the markets where "Atliq Exclusive" operates in the APAC region.
