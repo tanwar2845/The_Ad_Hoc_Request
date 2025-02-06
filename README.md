@@ -30,7 +30,7 @@ Extracted the required data by executing optimized SQL queries tailored to each 
 Analyzed trends and patterns using aggregate functions, filtering, and sorting techniques.
 
 Presented key insights with graphs and charts for better understanding and effective data visualization.
----
+-
 ### **Result**
 - **36.33% increase in product count** from 2020 to 2021, indicating strong portfolio expansion.
 - **Notebook segment** had the highest number of unique products (129), suggesting high demand.
