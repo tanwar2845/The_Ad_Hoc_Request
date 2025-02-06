@@ -1,5 +1,5 @@
 SELECT 
-		product_2021,
+	product_2021,
         product_2020,
         round(((product_2021 - product_2020)*100/product_2020),2) AS percnt_chng
 FROM
@@ -20,7 +20,7 @@ table2 AS
 FROM (fact_sales_monthly,table1)
 WHERE fiscal_year = 2021)
 SELECT 
-		product_2020,
+	product_2020,
         product_2021,
         ROUND(((product_2021-product_2020)*100/product_2020),2) AS percnt_chng
 FROM table1,table2
