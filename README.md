@@ -43,7 +43,7 @@ Presented key insights with graphs and charts for better understanding and effec
 - **Strategic recommendations** were made based on insights for better product placement and sales optimization.
 - 
 ## 🔗 Connect with Me
-[![LinkedIn](https://www.linkedin.com/in/kuldeep-tanwar2845)  
-[![GitHub]](https://github.com/tanwar2845)
+[![LinkedIn](https://www.linkedin.com/in/kuldeep-tanwar2845)]
+[![GitHub]](https://github.com/tanwar2845)]
 
 
