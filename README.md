@@ -30,7 +30,7 @@ Extracted the required data by executing optimized SQL queries tailored to each 
 Analyzed trends and patterns using aggregate functions, filtering, and sorting techniques.
 
 Presented key insights with graphs and charts for better understanding and effective data visualization.
--
+
 ### **Result**
 - **36.33% increase in product count** from 2020 to 2021, indicating strong portfolio expansion.
 - **Notebook segment** had the highest number of unique products (129), suggesting high demand.
@@ -39,7 +39,7 @@ Presented key insights with graphs and charts for better understanding and effec
 - **Q4 of 2020 had the highest sold quantity**, likely due to festive season demand.
 - **Retailer channel contributed the highest revenue** in 2021, proving its dominance in distribution.
 - **Strategic recommendations** were made based on insights for better product placement and sales optimization.
----
+- 
 ## 🔗 Connect with Me
 📌 [LinkedIn](https://www.linkedin.com/in/kuldeep-tanwar2845)  
 📌 [GitHub](https://github.com/tanwar2845)
