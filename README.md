@@ -1,4 +1,4 @@
-📌 [Video Presentation](https://www.linkedin.com/in/kuldeep-tanwar2845)  
+📌 [Video Presentation](https://www.linkedin.com/posts/kuldeep-tanwar2845_sql-dataanalytics-resumeproject-activity-7293501144490778624-ZZum?utm_source=share&utm_medium=member_desktop)  
 📌 [Report (Canva)](https://www.canva.com/design/DAGcd_07KZA/_yn7lnSZ_-yoVPLESvsdjQ/view?utm_content=DAGcd_07KZA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9dd89d33e4)
 # The-Ad-Hoc-Request
 
