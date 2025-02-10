@@ -1,6 +1,6 @@
 📌 [Video Presentation](https://www.linkedin.com/posts/kuldeep-tanwar2845_sql-dataanalytics-resumeproject-activity-7293501144490778624-ZZum?utm_source=share&utm_medium=member_desktop)  
 📌 [Report (Canva)](https://www.canva.com/design/DAGcd_07KZA/_yn7lnSZ_-yoVPLESvsdjQ/view?utm_content=DAGcd_07KZA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9dd89d33e4)
-# The-Ad-Hoc-Request
+# The_Ad_Hoc_Request
 
 ## Overview
 This project analyzes various ad-hoc requests for Atliq Hardwares, a consumer goods company. The analysis focuses on multiple business aspects such as product growth, customer insights, sales performance, and channel contributions.
